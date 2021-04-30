@@ -1,1 +1,2 @@
-# Synchronized-asynchronizedGame
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
